@@ -1,0 +1,549 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Codezilla\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-02-16 11:27+0000\n"
+"PO-Revision-Date: 2022-02-17 10:06+0000\n"
+"Last-Translator: \n"
+"Language-Team: Arabic\n"
+"Language: ar\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100 >= 3 "
+"&& n%100<=10 ? 3 : n%100 >= 11 && n%100<=99 ? 4 : 5;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.8; wp-5.9\n"
+"X-Domain: codzilla"
+
+#: lib/codzilla_theme_init.php:108
+msgid " Description"
+msgstr ""
+
+#: page-about.php:163
+msgid "A Will to challenge & win "
+msgstr "الشغف بالتحدي والنجاح"
+
+#. Name of the template
+msgid "About Template"
+msgstr ""
+
+#: page-about.php:18 index.php:97 front-page.php:102
+msgid "About Us"
+msgstr "من نحن"
+
+#: index.php:495 front-page.php:369
+msgid "about your "
+msgstr "عن مشروعك "
+
+#: lib/codzilla_theme_init.php:93
+msgid "Add New"
+msgstr ""
+
+#: page-contact.php:37
+msgid ""
+"Alex-Cairo agriculture road,  \n"
+"                                <br>Gardenia Buildings. No (C). 6th floor"
+msgstr ""
+"طريق إسكندرية القاهرة الزراعي، بجوار بنزينة التعاون بالقرب من مرور سالم <br> "
+"عمارات جاردينيا العمارة رقم (ج) الدور السادس."
+
+#: page-partners.php:18
+msgid "Aliquam enim enim, pharetra in sodales at, interdum sit amet dui. "
+msgstr ""
+
+#: index.php:183 front-page.php:182
+msgid "All Projects"
+msgstr "جميع المشاريع"
+
+#: footer.php:105
+msgid "All Rights Reserved "
+msgstr "جميع الحقوق محفوظة"
+
+#: page-about.php:95
+msgid ""
+"As Codezillians,  we will help you to grow your business , increase your "
+"revenue, and track every business aspect needed with the minimal effort. "
+"With Codezilla, it has never been that easy."
+msgstr ""
+"في كودزيلا، نحن حريصون كل الحرص  على إنماء عملكم وزيادة أرباحكم ومساعدتكم "
+"لمتابعة كافة تفاصيل الأعمال الخاصة بكم بأقل مجهود ممكن.كودزيلا، لم يكن الأمر "
+"بهذه السهولة من قبل كودزيلا, الأسهل دائماً"
+
+#: index.php:265
+msgid "Best Producst"
+msgstr "أفضل المنتجات"
+
+#: index.php:437 archive.php:15
+msgid "Blog"
+msgstr "المدونة"
+
+#. Name of the template
+msgid "Blog Template"
+msgstr ""
+
+#: page-partners.php:15 index.php:339 front-page.php:268
+msgid "Clients"
+msgstr "العملاء"
+
+#. Name of the template
+msgid "Clients Template"
+msgstr ""
+
+#: index.php:340 front-page.php:269
+msgid "Clients."
+msgstr "عملائنا."
+
+#. Name of the theme
+#. Author of the theme
+#: page-about.php:185 index.php:133 footer.php:12 footer.php:105 footer.php:108
+#: front-page.php:132
+msgid "Codezilla"
+msgstr "كودزيلا"
+
+#: page-about.php:119
+msgid ""
+"Codezilla helps business to transfer into digital, achieving better growth "
+"and success. We unleash a creative software engineers minds to create "
+"business success stories."
+msgstr ""
+"كودزيلا تساعد في تحويل الأعمال من شتى المجالات إلى أعمال رقمية، لتصبح أكثر "
+"نمواً ونجاحاً.لدينا فريق من المبدعين مستعدين لبناء قصص نجاح متعددة."
+
+#. Description of the theme
+msgid "Codezilla | One-stop-solution"
+msgstr ""
+
+#: lib/codzilla_theme_init.php:283
+msgid "Codzilla Links"
+msgstr ""
+
+#: lib/codzilla_theme_init.php:282
+msgid "Codzillz Links"
+msgstr ""
+
+#: page-contact.php:26
+msgid "Contact Info."
+msgstr "معلومات التواصل."
+
+#. Name of the template
+msgid "Contact Template"
+msgstr ""
+
+#: single-product.php:116 footer.php:36
+msgid "Contact Us"
+msgstr "تواصل معنا"
+
+#: footer.php:108
+msgid "Designed & Developed by"
+msgstr "تم التصميم والتطوير بواسطة"
+
+#: page-about.php:159
+msgid "Desire to change"
+msgstr "الرغبة في التغيير"
+
+#: index.php:158 index.php:254 index.php:345 index.php:479 front-page.php:157
+#: front-page.php:253 front-page.php:274
+msgid "Discover More"
+msgstr "عرض المزيد"
+
+#: page-about.php:26 index.php:107
+msgid "Download Company Profile"
+msgstr "تحميل الملف التعريفي للشركة"
+
+#: page-about.php:160
+msgid ""
+"Each one of us wants to leave his/her mind print in his/her work, we love to "
+"develop, we love to change."
+msgstr ""
+"كل شخص في فريق العمل يرغب في ترك بصمته الإبداعية في عمله، نحن نحب التطوير. "
+"نحن نحب التغيير."
+
+#: lib/codzilla_meta_fields.php:130
+msgid "Facebook: "
+msgstr ""
+
+#: single-product.php:111
+msgid "FAQ"
+msgstr ""
+
+#: lib/codzilla_taxonomy_terms.php:110
+msgid "Feature Image"
+msgstr ""
+
+#: lib/codzilla_theme_init.php:101
+msgid "Featured Image"
+msgstr ""
+
+#: single-product.php:23 single-product.php:25 single-product.php:27
+msgid "Features"
+msgstr ""
+
+#: single-product.php:70
+msgid "Gallery"
+msgstr ""
+
+#: lib/codzilla_theme_init.php:201
+msgid "Gallery Images"
+msgstr ""
+
+#: index.php:500 front-page.php:374
+msgid "Get In Touch"
+msgstr "ابقى على تواصل"
+
+#: page-contact.php:20
+msgid "Get In Touch."
+msgstr "ابقى على تواصل."
+
+#: single-product.php:116
+msgid "Have Questions?"
+msgstr "لديك إستفسارات؟"
+
+#: page_title.php:10
+msgid "Home"
+msgstr "الرئيسية"
+
+#. URI of the theme
+#. Author URI of the theme
+msgid "https://codzilla.net"
+msgstr ""
+
+#: page-about.php:89 page-about.php:156
+msgid ""
+"In Codezilla, Our Passionate team will guide  you through your digital "
+"journey Step by step taking your business to the next level."
+msgstr ""
+"نقدم حلول متميزة، وحيث أننا المنوطين بتنفيذها، سيتم عملها بالشكل الأمثل."
+
+#: lib/codzilla_meta_fields.php:157
+msgid "Instagram: "
+msgstr ""
+
+#: index.php:104 index.php:295 index.php:317
+msgid "Know More"
+msgstr "معرفة المزيد"
+
+#: index.php:435
+msgid "Latest News"
+msgstr "آخر الأخبار"
+
+#: index.php:172 front-page.php:171
+msgid "Let's hear from our work... it speaks for itself"
+msgstr "دعنا نسمع من عملنا ... إنه يتحدث عن نفسه"
+
+#: page-contact.php:27
+msgid "Let's Talk."
+msgstr "للتواصل"
+
+#: index.php:494 front-page.php:368
+msgid "Let’s Talk"
+msgstr "لنتجدث"
+
+#: lib/codzilla_meta_fields.php:70
+msgid "Link Text: "
+msgstr ""
+
+#: lib/codzilla_meta_fields.php:83
+msgid "Link URL: "
+msgstr ""
+
+#: lib/codzilla_meta_fields.php:171
+msgid "Linkedin: "
+msgstr ""
+
+#: lib/codzilla_meta_fields.php:227
+msgid "Location: "
+msgstr ""
+
+#: single-product.php:118
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod "
+"tempor incididunt ut\n"
+"                            labore et dolore magna aliqua. Ut enim veniam, "
+"quis nostrud exercitation."
+msgstr ""
+
+#: archive.php:16 page-sevices.php:17
+msgid "Lorem Ipsum is simply dummy text printing"
+msgstr ""
+
+#: page-about.php:128
+msgid "Methodology"
+msgstr "طريقة عملنا"
+
+#: page-about.php:123
+msgid "Mission"
+msgstr "مهمتنا"
+
+#. Name of the template
+msgid "News Template"
+msgstr ""
+
+#: index.php:495 front-page.php:369
+msgid "next project"
+msgstr "الجديد"
+
+#: lib/codzilla_theme_init.php:99
+msgid "Not found"
+msgstr ""
+
+#: lib/codzilla_theme_init.php:100
+msgid "Not found in Trash"
+msgstr ""
+
+#: index.php:291 index.php:313
+msgid ""
+"Nulla metus metus ullamcorper vel tincidunt\n"
+"                                sed euismod nibh volutpat velit\n"
+"                                class\n"
+"                                aptent taciti sociosqu ad litora."
+msgstr ""
+
+#: page-about.php:114 index.php:340 front-page.php:269
+msgid "Our"
+msgstr " "
+
+#: index.php:436
+msgid "Our Blog."
+msgstr "المدونة."
+
+#: page-about.php:129
+msgid ""
+"Our methodology is to have a differentiated mindset and mindprint in each "
+"story we are involved in. We do it different. We do it optimal."
+msgstr ""
+"الوصول إلى أكثر الحلول تميزاً واستخدام التفكير الخلاق لترك بصمة إبداعية في "
+"كافة قصص النجاح التي كنا جزءاً منها. حلولنا تختلف، حلولنا هي الأفضل."
+
+#: page-about.php:124
+msgid ""
+"Our mission to help people to get succeeded in making others life easies, We "
+"are shaping a better and easier future."
+msgstr ""
+"هي  مساعدة عملائنا للنجاح في تقديم مستقبل أسهل وأفضل للآخرين.\n"
+
+#: page-about.php:150
+msgid "Our Values"
+msgstr "قيمنا"
+
+#: page-about.php:151
+msgid ""
+"Our values reflect the company culture and what we as a company stand for."
+msgstr "قيم كودزيلا تعكس ثقافة الشركة وما تمثله تجاه عملائها."
+
+#: index.php:173 front-page.php:172
+msgid "Our Works."
+msgstr "أعمالنا."
+
+#: 404.php:16
+msgid "Page Not Found"
+msgstr "الصفحة غير موجودة"
+
+#. Name of the template
+msgid "Partners Template"
+msgstr ""
+
+#: page-about.php:167
+msgid "Personal accountability"
+msgstr "نحمل المسؤولية"
+
+#: page-about.php:114
+msgid "Philosophy"
+msgstr "فلسفتنا"
+
+#: lib/codzilla_taxonomy_terms.php:15
+msgid "Popular Classfications"
+msgstr ""
+
+#: lib/codzilla_taxonomy_terms.php:37
+msgid "Popular Features"
+msgstr ""
+
+#: index.php:174 front-page.php:173
+msgid "Portfolio"
+msgstr "معرض الأعمال"
+
+#. Name of the template
+msgid "Portfolio Template"
+msgstr ""
+
+#: single-product.php:22 single-product.php:24 single-product.php:26
+msgid "Product"
+msgstr ""
+
+#: index.php:286 index.php:308
+msgid "Product Description"
+msgstr ""
+
+#: single-product.php:67 single-product.php:68
+msgid "Product Gallery"
+msgstr ""
+
+#: index.php:281 index.php:303
+msgid "Product Title"
+msgstr ""
+
+#: index.php:266 index.php:267
+msgid "Products"
+msgstr ""
+
+#: page-about.php:155
+msgid "Quality"
+msgstr "الجودة"
+
+#: single-product.php:109 single-product.php:145
+msgid "Quotation"
+msgstr ""
+
+#: index.php:470
+msgid "Read More"
+msgstr "عرض المزيد"
+
+#: lib/codzilla_theme_init.php:103
+msgid "Remove featured image"
+msgstr ""
+
+#: single-product.php:145
+msgid "Request"
+msgstr ""
+
+#: single-product.php:110
+msgid "Request Quotation"
+msgstr ""
+
+#: lib/codzilla_taxonomy_terms.php:14
+msgid "Search Classfications"
+msgstr ""
+
+#: lib/codzilla_taxonomy_terms.php:36
+msgid "Search Features"
+msgstr ""
+
+#: search.php:9 search.php:11
+msgid "Search for : "
+msgstr "بحث عن : "
+
+#: lib/codzilla_meta_fields.php:378
+msgid "Service Icon code: "
+msgstr ""
+
+#: page-about.php:187 index.php:135 front-page.php:134 page-sevices.php:14
+msgid "Services"
+msgstr "الخدمات"
+
+#. Name of the template
+msgid "Services Template"
+msgstr ""
+
+#: page-about.php:186 index.php:134 front-page.php:133
+msgid "Services."
+msgstr "خدماتنا."
+
+#: lib/codzilla_theme_init.php:102
+msgid "Set featured image"
+msgstr ""
+
+#: lib/codzilla_meta_fields.php:269 lib/codzilla_meta_fields.php:312
+msgid "Show in homepage: "
+msgstr ""
+
+#: footer.php:58
+msgid "Subscribe"
+msgstr "إشتراك"
+
+#: page-about.php:223 index.php:382 front-page.php:311
+msgid "Testimonials"
+msgstr "آراء العملاء"
+
+#: page-about.php:222 index.php:381 front-page.php:310
+msgid "Testimonials."
+msgstr "آراء العملاء."
+
+#: lib/codzilla_meta_fields.php:34
+msgid "Text Align: "
+msgstr ""
+
+#: 404.php:17
+msgid "The page you were looking for could not be found."
+msgstr "الصفحة التي كنت تبحث عنها لا يمكن العثور عليها."
+
+#: lib/codzilla_meta_fields.php:143
+msgid "Twitter: "
+msgstr ""
+
+#: lib/codzilla_theme_init.php:104
+msgid "Use as featured image"
+msgstr ""
+
+#: footer.php:17
+msgid "Useful Links"
+msgstr "روابط سريعة"
+
+#: page-about.php:118
+msgid "Vision"
+msgstr "رؤيتنا"
+
+#: page-contact.php:34
+msgid "Visit Us."
+msgstr "قم بزيارتنا."
+
+#: page-about.php:84
+msgid "We Are Codezilla."
+msgstr ""
+
+#: index.php:287 index.php:309
+msgid ""
+"We are Codezilla. We create award-winning websites,\n"
+"                                remarkable brands and cutting-edge apps."
+"Nullam\n"
+"                                imperdiet, sem at fringilla lobortis, sem "
+"nibh fringilla nibh, id gravida mi purus sit amet\n"
+"                                erat. Ut dictum nisi masvitp."
+msgstr ""
+
+#: page-about.php:168
+msgid ""
+"We are personally committed and accountable in delivering our own committees."
+msgstr ""
+"فريق العمل يشجع روح الإلتزام ويعزز من قيمة المسؤولية الشخصية والوفاء "
+"بالالتزامات."
+
+#: page-about.php:164
+msgid ""
+"We have a strong will to get challenged and won in marketplaces, in business,"
+" and in every aspect of our life."
+msgstr ""
+"لدينا رغبة قوية ليكون لدينا تحديات جديدة، والفوز بهذه التحديات سواء في مجال "
+"العمل أو في أي جانب من جوانب الحياة."
+
+#: index.php:380
+msgid "What Peapole Says?"
+msgstr ""
+
+#: page-about.php:221 front-page.php:309
+msgid "What People Says?"
+msgstr "ما يقوله الناس؟"
+
+#: lib/codzilla_meta_fields.php:185
+msgid "WhatsApp: "
+msgstr ""
+
+#: page-about.php:92
+msgid ""
+"With Codezilla, you will lead your industry. Codezilla is  your business "
+"partner, who does care about your business success just as you do. We are in "
+"the same boat, heading towards a brighter future"
+msgstr ""
+"مع كودزيلا، سيساعدك فريق من الخبراء المختصين خلال رحلتك الرقمية خطوة بخطوة "
+"بشغف وإحترافية، لتصل بأعمالك إلى مستوى أفضل."
+
+#: footer.php:13
+msgid ""
+"With Codezilla, you will lead your industry. Codezilla is your business "
+"partner, who does care about your business success just as you do. We are in "
+"the same boat, heading towards a brighter future"
+msgstr ""
+"مع كودزيلا، سيساعدك فريق من الخبراء المختصين خلال رحلتك الرقمية خطوة بخطوة "
+"بشغف وإحترافية، لتصل بأعمالك إلى مستوى أفضل.مع كودزيلا، ستكون رائداً في "
+"الجوانب التكنولوجية والرقمية تقود مجال صناعتك، حيث أن كودزيلا هو شريكك "
+"الأمثل الذي يهتم بنجاح عملك كمثل إهتمامك به."

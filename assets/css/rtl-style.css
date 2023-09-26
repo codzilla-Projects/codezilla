@@ -1,0 +1,187 @@
+body{
+    font-family: 'Cairo',sans-serif;
+}
+nav.navbar.change.navbar-expand-lg {
+    direction: rtl;
+}
+div#navbarSupportedContent .navbar-nav.ml-auto {
+    margin-right: auto!important;
+    margin-left: unset!important;
+}
+.navbar .search {
+    color: #fff;
+    padding-right: 30px;
+    padding-left: unset;
+    border-right: 1px solid rgba(255,255,255,.1);
+    border-left: none;
+}
+.navbar li a , #footer .footer-top .footer-info h3, #footer .footer-top .footer-info p{
+    font-family: 'Cairo',sans-serif;
+}
+.sec-head h6 {
+    font-size: 19px;
+    letter-spacing: 0px;
+    font-family:  'Cairo',sans-serif;
+}
+.sec-head h3 {
+    font-family: 'Cairo',sans-serif;
+    letter-spacing: 2px;
+    font-size: 65px;
+    direction: rtl;
+}
+.testimonials .item .info .author-name{
+    letter-spacing: 1px;
+    font-family: 'Cairo',sans-serif;
+}
+.sec-head .tbg{
+    font-family: 'Cairo',sans-serif;
+    display: none;
+}
+.main-content {
+    width: 100%!important;
+    right: 0px!important;
+    left: 0px!important;
+    overflow-x: hidden;
+/*    direction: rtl;*/
+    text-align: right;
+    font-family: 'Cairo',sans-serif;
+}
+section.clients .row {
+    flex-direction: row-reverse;
+    text-align: right;
+}
+#clients .slick-prev {
+    right: 35px;
+    left: unset;
+}
+#clients .slick-next {
+    right: 100px;
+    left: unset;
+}
+.clients .slick-wrapper .smore.justify-content-end{
+    -webkit-box-pack: start!important;
+    -ms-flex-pack: start!important;
+    justify-content: flex-start!important;
+}
+.smore{
+    letter-spacing: 1px;
+    font-family: 'Cairo',sans-serif;
+}
+.effect.effect-2:before{
+    content: "\f060";
+    left: 0px;
+    right: unset;
+}
+.slick-slider {
+    direction: ltr;
+}
+section.about {
+    direction: rtl;
+}
+.aboutus .wpb_wrapper, .sub-title {
+    padding-right: 20px;
+}
+.aboutus .wpb_wrapper h5, .sub-title span{
+    right: 6px;
+    left: unset;
+}
+.aboutus .wpb_wrapper h5:last-of-type, .sub-title span:last-of-type {
+    right: 0px;
+    left: unset;
+}
+.aboutus .wpb_wrapper h6, .sub-title h6 {
+    font-family: 'Cairo',sans-serif;
+    letter-spacing: 0px;
+}
+.custom-font {
+    font-family: 'Cairo',sans-serif;
+}
+h3 {
+    font-size: 30px;
+}
+.simple-btn , .simple-btn1{
+    letter-spacing: 1px;
+}
+.call-action .content h6{
+    letter-spacing: 1px;
+    font-size: 18px;
+}
+.simple-btn:after, .simple-btn1:after{
+    right: 0px;
+    left: unset;
+}
+.portfolio .filtering .filter{
+    direction: rtl;
+}
+.portfolio .filtering .filter li:after{
+    left: -24px;
+    right: unset;
+}
+.portfolio .inner-box .image .overlay-box .options {
+    left: 30px;
+    right: unset;
+}
+section.call-action {
+    direction: rtl;
+}
+.call-action .content h2{
+    color: #0c0f16;
+    -webkit-text-stroke: unset;
+    text-shadow: 0 8px rgb(0 0 0 / 5%);
+}
+#footer {
+    direction: rtl;
+}
+#footer .footer-top .footer-info h3 {
+    padding: 2px 10px 2px 0px;
+    letter-spacing: 1px;
+    border-right: 4px solid var(--primaryColor);
+    border-left: unset;
+}
+#footer .footer-top .footer-links ul i {
+    padding-left: 8px;
+    padding-right: unset;
+}
+#footer .fa-chevron-right:before {
+    content: "\f053";
+}
+#footer .footer-top h4::after, #footer .footer-top h4::before {
+    left: unset;
+    right: 0;
+}
+.form-control {
+    text-align: right;
+}
+.cont-info .item i {
+    padding-left: 8px;
+    padding-right: unset;
+}
+.contact .cont-info .item h5 {
+    direction: rtl;
+}
+.contact .cont-info h3 {
+    letter-spacing: 1px;
+    direction: rtl;
+}
+.contact .cont-info .item h6 {
+    direction: rtl;
+}
+.extra-title {
+    direction: rtl;
+}
+.pages-header .cont .path {
+    direction: rtl;
+}
+.min-area .content {
+    direction: rtl;
+}
+.min-area .content ul.feat li h6 span{
+    margin-left: 10px;
+    margin-right: unset;
+}
+.services .item-box.bg-img{
+    text-align: right;
+}
+.services {
+    direction: rtl;
+}

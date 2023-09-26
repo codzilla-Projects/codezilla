@@ -1,0 +1,171 @@
+
+@media (max-width: 576px) {
+	.navbar .navbar-collapse ul li{
+		text-align: center;
+	}
+}
+
+/*// Medium devices (tablets, 768px and up)*/
+@media (max-width: 768px) { ... }
+
+
+/*// Large devices (desktops, 992px and up)*/
+@media (max-width: 992px) {
+	html{
+	  overflow-x: hidden;
+	}
+	body {
+	  cursor: pointer;
+	  overflow-x: hidden;
+	}
+	.section-padding{
+		padding: 60px 0;
+	}
+	.p-0{
+		margin: 10px 0;
+	}
+	.mouse-cursor,
+	.cursor-outer,
+	.cursor-inner{
+		display: none;
+	}
+	.navbar .navbar-collapse ul li{
+		text-align: center;
+	}
+	.services .step-item.x1{
+		top: 0 !important;
+	}
+	.services .step-item.x3,
+	.services .step-item.x4{
+		bottom: 0 !important;
+	}
+	.portfolio .filtering .filter{
+		width: 100%;
+	}
+	.portfolio .filtering .filter li:after{
+		display: none;
+	}
+	.portfolio .filtering .filter li {
+	    display: block;
+	    padding: 5px;
+/*	    border: 1px solid var(--primaryColor);*/
+	}
+	.portfolio .filtering .filter li span.count{
+		top: -20px;
+		width: 20px;
+		height: 20px;
+		background: var(--secondaryColor);
+	}
+	.clients .slick-prev{
+		left: 20px;
+	}
+	.clients .slick-next{
+		left: 80px;
+	}
+	.about-us .btn-curve,
+	.call-action .btn-curve,
+	#contact-description .btn-curve{
+		width: 100%;
+		text-align: center;
+	}
+	.aboutus .wpb_wrapper h5,
+	.aboutus .wpb_wrapper h5:last-of-type{
+		display: none;
+	}
+	.aboutus .wpb_wrapper h6,
+
+	.intro-section h4,
+	.about .vc_column-inner .co-tit,
+	.aboutus p.vc_custom_heading.wow.fadeInUp,
+	.intro-section .text,
+	.about-us .content h2,
+	.about-us .content h6,
+	.call-action h2,
+	.call-action h6,
+	.contact h4,
+	.contact h3,
+	.contact .item,
+	.contact .social,
+	#contact-description h1,
+	#contact-description .sub-heading,
+	#contact-description .main-heading{
+		text-align: center !important;
+	}
+	.aboutus .wpb_wrapper{
+		padding: 0;
+	}
+	.zilla_gallery_first_img .cbp-item-wrapper{
+		height: 255px;
+	}
+}
+
+/*// Extra large devices (large desktops, 1200px and up)*/
+@media (max-width: 1200px) {
+	.aboutus .wpb_wrapper h5:last-of-type{
+		left: -22px;
+	}
+	.aboutus .wpb_wrapper h5{
+		left: -15px;
+	}
+	.zilla_gallery_first_img .cbp-item-wrapper{
+		height: 527px;
+	}
+}
+
+@media screen and (max-width: 767px){
+    
+    .main-content {
+        text-align: center;
+    }
+    section.about .sub-title span, .aboutus .wpb_wrapper h5 {
+        left: 39%;
+    }
+   section.about .sub-title span:last-of-type, .aboutus .wpb_wrapper h5:last-of-type {
+        left: 37%;
+    }
+    .about a.simple-btn.data-splitting.words.chars.splitting.animated {
+        float: none!important;
+        text-align: center;
+        margin-left: 35%;
+    }
+    section.products .about {
+        padding: 10px 25px !important;
+    }
+    .products .about .sub-title span {
+        left: 31%;
+    }
+    .products .about .sub-title span:last-of-type{
+        left: 29%;
+    }
+    .products .about a.simple-btn.data-splitting.words.chars.splitting.animated {
+        margin-left: 0;
+    }
+    .sec-head {
+        margin: 0 auto 20px;
+    }
+    #footer .footer-top h4::before, #footer .footer-top h4::after {
+        left: 43%;
+    }
+    #footer .copyright {
+        text-align: center;
+        padding-top: 10px;
+        float: none;
+    }
+    #footer .credits {
+        text-align: center;
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+    .slider .parallax-slider .swiper-slide .bg-img {
+        background-position: 76%!important;
+    }
+    .navbar .search .search-form form input{
+        text-align: center;
+    }
+    .navbar .search .search-form{
+        background-color: #fff;
+    }
+    .team , .clients{
+        text-align: center;
+    }
+}

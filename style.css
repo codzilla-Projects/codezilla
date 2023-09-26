@@ -1,0 +1,15 @@
+/*
+	Theme Name: Codezilla
+	Theme URI: https://codzilla.net
+	Github Theme URI: https://github.com/CodeZilla-Projects/Codezilla.git
+	Description: Codezilla | One-stop-solution
+	Author: Codezilla 
+	Author URI: https://codzilla.net
+	Version: 1.0
+
+*/
+button.btn.btn-instagram, .btn:not(.close):not(.mfp-close).btn-instagram, a.btn:not([href]):not([tabindex]).btn-instagram {
+    background: -moz-linear-gradient(top, #e72c83 2%,#a742c6 82%,#f5ab4c 10%);
+    background: -webkit-linear-gradient(top, #e72c83 2%,#a742c6 82%);
+	background: linear-gradient(to bottom, #e72c83 2%,#a742c6 82%);
+}
